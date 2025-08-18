@@ -1,0 +1,6 @@
+{
+    "moduleNameMapper": {
+        "\\.svg$": "jest-transform-stub",
+        "\\.(css|less|scss)$": "babel-jest"
+    }
+}
